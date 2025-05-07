@@ -23,6 +23,7 @@ import java.util.UUID;
 
 @Component
 @AllArgsConstructor
+
 @Data
 public class UserDetailsServiceImpl implements UserDetailsService
 {
